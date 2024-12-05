@@ -1,0 +1,10 @@
+PyPDF2
+pdfplumber
+faiss-cpu
+transformers
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+torch
+transformers
